@@ -5,7 +5,7 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
+- [Syauqi]
 - [insert Member Name]
 - [insert Member Name]
 - [insert Member Name]
